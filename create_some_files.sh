@@ -1,9 +1,11 @@
 #!/bin/sh
 
-mkdir myfiles
-echo "file1" > myfiles/file1
-echo "file2" > myfiles/file2
-echo "file3" > myfiles/file3
-echo "file4" > myfiles/file4
+mkdir bbfiles
+echo "file1" > bbfiles/file1
+echo "file2" > bbfiles/file2
+mkdir ccfiles
+echo "file3" > ccfiles/file3
+echo "file4" > ccfiles/file4
 
-ls myfiles/*
+ls bbfiles/*
+ls ccfiles/*
