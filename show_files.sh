@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ls -la myfiles/*
+ls -la ./myfiles
