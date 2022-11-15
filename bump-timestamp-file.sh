@@ -3,9 +3,9 @@
 set -e # fail fast
 set -x # print commands
 
-git clone my-gist my-updated-gist
+git clone my-gist updated-gist
 
-cd my-updated-gist
+cd updated-gist
 date > bumpme
 
 git config --global user.email "thaihai.nguyen1972@gmail.com"
