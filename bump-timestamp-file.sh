@@ -8,7 +8,7 @@ git clone my-gist my-updated-gist
 cd my-updated-gist
 date > bumpme
 
-git config --global user.email "thaihai.nguyen1972@gmail.com"
+git config --global user.email "thaihai.nguyen@gmail.com"
 git config --global user.name "thaihainguyen"
 
 git add .
