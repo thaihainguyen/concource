@@ -1,3 +1,4 @@
 #!/bin/sh
 
-ls myfiles/*
+ls -la bbfiles/
+ls -la ccfiles/
