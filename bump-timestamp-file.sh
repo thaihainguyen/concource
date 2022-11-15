@@ -8,8 +8,8 @@ git clone resource-gist updated-gist
 cd updated-gist
 date > bumpme
 
-git config --global user.email "nobody@concourse-ci.org"
-git config --global user.name "Concourse"
+git config --global user.email "thaihai.nguyen1972@gmail.com"
+git config --global user.name "thaihainguyen"
 
 git add .
 git commit -m "Bumped date"
